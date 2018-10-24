@@ -5,3 +5,4 @@
 # hell the git
 # what the fuck
 # add
+# add for training fetch and pull
